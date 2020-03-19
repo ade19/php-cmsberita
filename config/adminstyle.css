@@ -1,0 +1,31 @@
+body{
+text-align : center;
+font-family : Tahoma;
+}
+#header {
+position : relative;
+margin-right : auto;
+margin-left : auto;
+background-image : url(../admin/images/header.png);
+background-repeat : no-repeat;
+width:800px;
+border : 2px solid #265180;
+padding-top : 70px;
+text-align : left;
+}
+#content {
+margin-left : 230px;
+padding : 20px 10px 0 0;
+}
+#footer {
+padding : 20px 0 10px 255px;
+font-size : 70%;
+color : #FFFFFF;
+background-color : #265180;
+}
+h2 {
+font : normal 120% Georgia;
+color : #265180;
+background-color : transparent;
+border-bottom : 1px dotted #265180;
+}

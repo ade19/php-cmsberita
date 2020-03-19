@@ -1,0 +1,81 @@
+a:link, a:visited {
+color : #007495;
+font-weight : bold;
+text-decoration : none;
+}
+a:hover {
+color : #FF9900;
+font-weight : bold;
+}
+input, textarea, select{
+background-color : #EEEEEE;
+font-size : 10px;
+}
+hr {
+border-bottom : 1px dashed #9D9D9D;
+}
+#menu{
+font-family : Tahoma;
+font-size : 12px;
+color : blue;
+}
+#menu a:link, #menu a:visited {
+color : #FFFF00;
+}
+#menu a:hover {
+color : #FFFFFF;
+}
+#kiri{
+font-family : Tahoma;
+font-size : 11px;
+color : #FFFFFF;
+}
+#kiri a:link, #kiri a:visited {
+color : #FFFF00;
+}
+#kiri a:hover {
+color : #FFFFFF;
+}
+.isi {
+font-family : Tahoma;
+font-size : 11px;
+padding-left : 4px;
+color : #333333;
+text-align : justify;
+line-height : 18px;
+}
+.bullet{
+font-family : Tahoma;
+font-size : 14px;
+padding-left : 4px;
+color : #FFFFFF;
+text-align : justify;
+line-height : 18px;
+}
+.isi_kecil{
+font-family : Tahoma;
+font-size : 11px;
+padding-left : 4px;
+color : #FF6600;
+}
+.judul {
+font-family : Tahoma;
+font-size : 12px;
+font-weight : bold;
+color : #265180;
+padding-left : 4px;
+}
+.judul_head {
+font-family : Georgia;
+font-size : 12px;
+font-weight : bold;
+background-color : #B7BCC2;
+color : #333333;
+padding-left : 4px;
+}
+.kembali {
+font-family : Tahoma;
+font-size : 11px;
+padding-left : 4px;
+text-align : center;
+}
