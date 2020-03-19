@@ -1,0 +1,14 @@
+SETELAH PROJECT SUDAH DI LETAKKAN DI XAMPP
+DAN DATABASE SUDAH DI IMPORT
+
+LALU buka google chrome atau web browser lainnya :
+http://localhost/Portal-Berita/
+
+untuk login :
+untuk masuk kehalaman admin (back-end) maka tambahkan "admin" pada url
+seperti dibawah ini :
+
+ http://localhost/Portal-Berita/admin
+
+ username : ade_saputra
+ password : ade19
